@@ -1,0 +1,15 @@
+.body{
+    background-color: black;
+}
+
+.form-con{
+    background: white;
+    height: 950px;
+    width: 50%;
+    margin: auto;
+}
+.HeadText{
+    margin: 0%;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
